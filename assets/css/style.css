@@ -1,0 +1,68 @@
+body {
+  color: #373A3C;
+}
+
+hr {
+  border-top: 3px solid black;
+}
+
+/* Header */
+.navbar {
+    background-color: #373A3C;
+}
+
+.navbar h1 {
+    font-family: 'Lobster', cursive;
+}
+
+.navbar ul {
+    font-family: 'Cabin', sans-serif;
+}
+
+.button_main {
+  border: 1px solid #DDDDDD;
+}
+
+#enviarCorreo {
+  margin-right: 2em;
+}
+
+.container-text {
+    font-family: 'Cabin', sans-serif;
+}
+
+.ingredientes p{
+  line-height: 50%;
+}
+
+.recetas_relacionadas {
+  font-family: 'Cabin', sans-serif;
+}
+
+.recetas_relacionadas h1 {
+  text-align: center;
+}
+
+.newsletter {
+  background-color: #DC3545;
+  font-family: 'Cabin', sans-serif;
+  color: #FFF;
+  text-align: center;
+}
+
+.newsletter h3 {
+  display: inline-block;
+}
+
+.ricomida_footer {
+  background-color: #373A3C;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+@media(small) {
+  .pizzaChicago h1{
+    text-align: center;
+  }
+}
